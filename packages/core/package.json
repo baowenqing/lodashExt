@@ -1,6 +1,6 @@
 {
   "name": "@bao-dev/lodashExt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "自用的lodash扩展库，版权归lodash原作者所有",
   "main": "lib/index.js",
   "scripts": {
