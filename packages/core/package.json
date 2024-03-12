@@ -8,6 +8,7 @@
     "clean": "rimraf dist",
     "compile": "babel  ./lib/index.js --out-dir dist --copy-files"
   },
+  "types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "git@github.com:baowenqing/lodashExt"
