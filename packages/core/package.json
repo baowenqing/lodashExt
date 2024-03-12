@@ -1,6 +1,6 @@
 {
-  "name": "@bao-dev/lodashExt",
-  "version": "1.0.1",
+  "name": "@danke-dev/lodashExt",
+  "version": "1.0.2",
   "description": "自用的lodash扩展库，版权归lodash原作者所有",
   "main": "lib/index.js",
   "scripts": {
@@ -22,5 +22,6 @@
   },
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "gitHead": "cfdf2fb2bb3630bc13427283d55581d0aa712259"
 }
