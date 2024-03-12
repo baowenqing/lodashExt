@@ -1,6 +1,6 @@
 {
   "name": "@danke-dev/lodash-ext",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "自用的lodash扩展库，版权归lodash原作者所有",
   "main": "lib/index.js",
   "scripts": {
