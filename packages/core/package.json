@@ -1,0 +1,26 @@
+{
+  "name": "@bao-dev/lodashExt",
+  "version": "1.0.0",
+  "description": "自用的lodash扩展库，版权归lodash原作者所有",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "run test core",
+    "dev": "run  core  dev"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "keywords": [
+    "lodash",
+    "extensions"
+  ],
+  "author": "Jerry.bao <879694230@qq.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
