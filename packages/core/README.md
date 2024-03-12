@@ -1,6 +1,7 @@
 ### 自用工具库， 基于 [lodash]( https://www.npmjs.com/package/lodash)  扩展
 
- 
+> 安装依赖： npm i @danke-dev/lodash-ext 
+
 ### 修改如下：
 > 1. isEmpty 
 
