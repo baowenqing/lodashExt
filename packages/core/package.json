@@ -4,8 +4,7 @@
   "description": "自用的lodash扩展库，版权归lodash原作者所有",
   "main": "lib/index.js",
   "scripts": {
-    "test": "run test core",
-    "dev": "run  core  dev"
+
   },
   "directories": {
     "lib": "lib",
