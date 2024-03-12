@@ -1,11 +1,16 @@
-
+import * as _ from 'lodash';
 export = _;
-export as namespace _;
 
-declare const _: _.LoDashStatic;
-declare namespace _ {
-    // eslint-disable-next-line @typescript-eslint/no-empty-interface -- (This will be augmented)
-    interface LoDashStatic {
-        isEmptyByOld(value?: any): boolean;
-    }
+declare module _{
+    function isEmptyByOld(): boolean;
 }
+
+// export as namespace _;
+// declare const _: _.LoDashStatic;
+//
+// declare namespace _ {
+//
+//     interface LoDashStatic {
+//         isEmptyByOld(value?: any): boolean;
+//     }
+// }
