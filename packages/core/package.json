@@ -16,7 +16,7 @@
     "extensions"
   ],
   "author": "Jerry.bao <879694230@qq.com>",
-  "license": "ISC",
+  "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
