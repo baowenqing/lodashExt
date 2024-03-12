@@ -11,4 +11,6 @@
 修改后的函数  =>
 只要有值就是false。 
 如果像是 ""、null 、 undefined 、 void 0 、  {}  、 []   返回为true
+
+如果想用lodash之前的isEmpty功能 替换为isEmptyByOld函数
 ```
