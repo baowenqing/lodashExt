@@ -16,12 +16,12 @@
     "extensions"
   ],
   "author": "Jerry.bao <879694230@qq.com>",
-  "license": "MIT",
+  "license": "ISC",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
     "lodash": "^4.17.21"
   },
-  "gitHead": "cfdf2fb2bb3630bc13427283d55581d0aa712259"
+  "gitHead": "b8c50dcb47f27f4ced9c8cd794cb2777ac075e29"
 }
